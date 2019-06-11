@@ -1,4 +1,4 @@
-# MiqPluginExample
+# RedHatCloudServices
 Short description and motivation.
 
 ## Usage
@@ -8,7 +8,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'miq_plugin_example'
+gem 'red_hat_cloud_services'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ $ bundle
 
 Or install it yourself as:
 ```bash
-$ gem install miq_plugin_example
+$ gem install red_hat_cloud_services
 ```
 
 ## Contributing
