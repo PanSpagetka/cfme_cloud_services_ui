@@ -1,2 +1,2 @@
-//= link_directory ../javascripts/miq_plugin_example .js
-//= link_directory ../stylesheets/miq_plugin_example .css
+//= link_directory ../javascripts/red_hat_cloud_services .js
+//= link_directory ../stylesheets/red_hat_cloud_services .css
